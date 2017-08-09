@@ -1,0 +1,17 @@
+{
+    "githubLbConfig": [
+        {
+            "githubLbIp": "192.168.0.233",
+            "githubLbPort": 1983
+        },
+        {
+            "githubLbIp": "192.168.0.233",
+            "githubLbPort": 1984
+        },
+        {
+            "githubLbIp": "192.168.0.233",
+            "githubLbPort": 1985
+        }
+    ],
+    "size": 3
+}
